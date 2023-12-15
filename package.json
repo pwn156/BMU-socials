@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "The Social Network Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawan Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "mongodb": "^4.4.1",
+    "nodemailer": "^6.7.3",
+    "pg": "^8.7.3",
+    "ws": "^8.5.0"
+  }
+}
